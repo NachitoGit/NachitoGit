@@ -18,5 +18,5 @@ A Backend Developer from Argentina 🇦🇷
 ### 📬 Let’s Connect!
 
 * 🤝 Open to collaborations on any interesting programming projects
-* 📧 Reach me at: [nachoamerlo@gmail.com]
+* 📧 Reach me at: nachoamerlo@gmail.com
 * 🔗 Follow me on **[LinkedIn](https://www.linkedin.com/in/ignacio-merlo-30104735b/)**
