@@ -7,7 +7,6 @@ Desarrollador Backend de Argentina 🇦🇷
 ### 👨‍💻 Sobre mí
 
 * 🎓 **Técnico Universitario en Programación** - UTN San Francisco, Córdoba.
-* 💻 **Backend Developer**
 * 🏗️ Especialista en el **Ecosistema .NET** (ASP.NET Core, EF Core, MediatR, CQRS).
 * 🤖 Evolucionando hacia **AI Engineering** con Semantic Kernel y Bases de Datos Vectoriales.
 * 🧠 Enfocado en la lógica pura, el diseño de sistemas robustos y la escalabilidad.
