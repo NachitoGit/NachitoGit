@@ -1,22 +1,32 @@
-# Hi, I'm Ignacio Merlo 👋
+# ¡Hola, soy Ignacio Merlo! 👋
 
-A Backend Developer from Argentina 🇦🇷
+Desarrollador Backend de Argentina 🇦🇷
 
-### 👨‍💻 About Me
+---
 
-* 💻 **Backend Developer** | Clean Architecture Enthusiast
-* 🏗️ Specialist in **.NET Ecosystem** (ASP.NET Core, EF Core, MediatR, CQRS)
-* 🤖 Currently transitioning into **AI Engineering** with Semantic Kernel & Vector Databases
-* 🧠 Logic-driven developer, focused on the design of robust and scalable software.
-* 🌱 Always exploring the latest in **Cloud Integration** (Azure, Supabase) and **Automation** (n8n)
+### 👨‍💻 Sobre mí
 
-### 🚀 Projects
+* 🎓 **Técnico Universitario en Programación** - UTN San Francisco, Córdoba.
+* 💻 **Backend Developer**
+* 🏗️ Especialista en el **Ecosistema .NET** (ASP.NET Core, EF Core, MediatR, CQRS).
+* 🤖 Evolucionando hacia **AI Engineering** con Semantic Kernel y Bases de Datos Vectoriales.
+* 🧠 Enfocado en la lógica pura, el diseño de sistemas robustos y la escalabilidad.
+* 🌱 Explorando constantemente la **Integración Cloud** (Azure, Supabase) y **Automatización** (n8n).
 
-* **[ProjectManager](https://github.com/NachitoGit/ProjectManager):** A portfolio piece showcasing Clean Architecture and Unit Testing.
-* **Appointment Bot:** Automated management system using Meta Webhooks and Supabase.
+---
 
-### 📬 Let’s Connect!
+### 🚀 Proyectos Destacados
 
-* 🤝 Open to collaborations on any interesting programming projects
-* 📧 Reach me at: nachoamerlo@gmail.com
-* 🔗 Follow me on **[LinkedIn](https://www.linkedin.com/in/ignacio-merlo-30104735b/)**
+> 📂 **[ProjectManager](https://github.com/NachitoGit/ProjectManager)** > *Mi pieza central de portafolio: Implementación completa de Clean Architecture, DDD y Unit Testing.*
+
+> 🤖 **Appointment Bot** > *Automatización inteligente de turnos utilizando Meta Webhooks, n8n y Supabase.*
+
+---
+
+### 📬 ¡Conectemos!
+
+* 🤝 **Abierto a colaboraciones** en cualquier proyecto de programación desafiante.
+* 📧 Contactame en: **[nachoamerlo@gmail.com]**
+* 🔗 Seguime en **[LinkedIn](https://www.linkedin.com/in/ignacio-merlo-30104735b/)**
+
+---
