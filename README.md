@@ -25,7 +25,7 @@ Desarrollador Backend de Argentina 🇦🇷
 ### 📬 ¡Conectemos!
 
 * 🤝 **Abierto a colaboraciones** en cualquier proyecto de programación desafiante.
-* 📧 Contactame en: **[nachoamerlo@gmail.com]**
+* 📧 Contactame en: **nachoamerlo@gmail.com**
 * 🔗 Seguime en **[LinkedIn](https://www.linkedin.com/in/ignacio-merlo-30104735b/)**
 
 ---
